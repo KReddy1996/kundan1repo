@@ -12,6 +12,7 @@ public class TwoTest extends Base {
 
 	@Test
 	public void twoTest() throws IOException, InterruptedException {
+	   System.out.println("Kundan I love you");
 		
 		System.out.println("TestTwo");
 		
